@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Mon Feb 10 16:49:10 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0170-306f-0ed5-00000726a578 
+Mon Feb 10 18:18:12 BRST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0170-30c0-93ec-00001213a8e8 
 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
 Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Oracle Corporation
@@ -12,9 +12,9 @@ os.version=10.0
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
 ----------------------------------------------------------------
-Mon Feb 10 16:49:55 BRST 2020:
-Shutting down instance a816c00e-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 16:49:55 BRST 2020 Thread[Thread-21,5,main] Cleanup action starting
+Mon Feb 10 18:20:49 BRST 2020:
+Shutting down instance a816c00e-0170-30c0-93ec-00001213a8e8 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Mon Feb 10 18:20:50 BRST 2020 Thread[Thread-21,5,main] Cleanup action starting
 ERROR XBM0I: Directory test cannot be removed.
 	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
 	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
@@ -34,7 +34,7 @@ ERROR XBM0I: Directory test cannot be removed.
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
 	at java.lang.Thread.run(Unknown Source)
 Cleanup action completed
-Mon Feb 10 16:49:55 BRST 2020 Thread[Thread-21,5,main] Cleanup action starting
+Mon Feb 10 18:20:50 BRST 2020 Thread[Thread-21,5,main] Cleanup action starting
 ERROR XBM0I: Directory test cannot be removed.
 	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
 	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
@@ -55,8 +55,8 @@ ERROR XBM0I: Directory test cannot be removed.
 	at java.lang.Thread.run(Unknown Source)
 Cleanup action completed
 ----------------------------------------------------------------
-Mon Feb 10 16:49:59 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6074401f-0170-306f-0ed5-00000726a578 
+Mon Feb 10 18:20:54 BRST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c065801d-0170-30c0-93ec-00001213a8e8 
 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
 Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Oracle Corporation
@@ -68,9 +68,9 @@ os.version=10.0
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
 ----------------------------------------------------------------
-Mon Feb 10 16:51:18 BRST 2020:
-Shutting down instance 6074401f-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 16:51:19 BRST 2020 Thread[Thread-37,5,main] Cleanup action starting
+Mon Feb 10 18:26:49 BRST 2020:
+Shutting down instance c065801d-0170-30c0-93ec-00001213a8e8 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Mon Feb 10 18:26:49 BRST 2020 Thread[Thread-37,5,main] Cleanup action starting
 ERROR XBM0I: Directory test cannot be removed.
 	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
 	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
@@ -90,7 +90,7 @@ ERROR XBM0I: Directory test cannot be removed.
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
 	at java.lang.Thread.run(Unknown Source)
 Cleanup action completed
-Mon Feb 10 16:51:19 BRST 2020 Thread[Thread-37,5,main] Cleanup action starting
+Mon Feb 10 18:26:49 BRST 2020 Thread[Thread-37,5,main] Cleanup action starting
 ERROR XBM0I: Directory test cannot be removed.
 	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
 	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
@@ -111,8 +111,8 @@ ERROR XBM0I: Directory test cannot be removed.
 	at java.lang.Thread.run(Unknown Source)
 Cleanup action completed
 ----------------------------------------------------------------
-Mon Feb 10 16:51:22 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f91a0030-0170-306f-0ed5-00000726a578 
+Mon Feb 10 18:26:54 BRST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 98ec802c-0170-30c0-93ec-00001213a8e8 
 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
 Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Oracle Corporation
@@ -124,9 +124,9 @@ os.version=10.0
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
 ----------------------------------------------------------------
-Mon Feb 10 16:51:42 BRST 2020:
-Shutting down instance f91a0030-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 16:51:42 BRST 2020 Thread[Thread-53,5,main] Cleanup action starting
+Mon Feb 10 18:27:32 BRST 2020:
+Shutting down instance 98ec802c-0170-30c0-93ec-00001213a8e8 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Mon Feb 10 18:27:33 BRST 2020 Thread[Thread-53,5,main] Cleanup action starting
 ERROR XBM0I: Directory test cannot be removed.
 	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
 	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
@@ -146,7 +146,7 @@ ERROR XBM0I: Directory test cannot be removed.
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
 	at java.lang.Thread.run(Unknown Source)
 Cleanup action completed
-Mon Feb 10 16:51:42 BRST 2020 Thread[Thread-53,5,main] Cleanup action starting
+Mon Feb 10 18:27:33 BRST 2020 Thread[Thread-53,5,main] Cleanup action starting
 ERROR XBM0I: Directory test cannot be removed.
 	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
 	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
@@ -167,8 +167,8 @@ ERROR XBM0I: Directory test cannot be removed.
 	at java.lang.Thread.run(Unknown Source)
 Cleanup action completed
 ----------------------------------------------------------------
-Mon Feb 10 16:51:45 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 82080041-0170-306f-0ed5-00000726a578 
+Mon Feb 10 18:27:36 BRST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 21abc03b-0170-30c0-93ec-00001213a8e8 
 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
 Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Oracle Corporation
@@ -180,9 +180,9 @@ os.version=10.0
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
 ----------------------------------------------------------------
-Mon Feb 10 16:52:11 BRST 2020:
-Shutting down instance 82080041-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 16:52:12 BRST 2020 Thread[Thread-69,5,main] Cleanup action starting
+Mon Feb 10 18:27:58 BRST 2020:
+Shutting down instance 21abc03b-0170-30c0-93ec-00001213a8e8 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Mon Feb 10 18:27:59 BRST 2020 Thread[Thread-69,5,main] Cleanup action starting
 ERROR XBM0I: Directory test cannot be removed.
 	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
 	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
@@ -202,7 +202,7 @@ ERROR XBM0I: Directory test cannot be removed.
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
 	at java.lang.Thread.run(Unknown Source)
 Cleanup action completed
-Mon Feb 10 16:52:12 BRST 2020 Thread[Thread-69,5,main] Cleanup action starting
+Mon Feb 10 18:27:59 BRST 2020 Thread[Thread-69,5,main] Cleanup action starting
 ERROR XBM0I: Directory test cannot be removed.
 	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
 	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
@@ -223,8 +223,8 @@ ERROR XBM0I: Directory test cannot be removed.
 	at java.lang.Thread.run(Unknown Source)
 Cleanup action completed
 ----------------------------------------------------------------
-Mon Feb 10 16:52:14 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance fb160050-0170-306f-0ed5-00000726a578 
+Mon Feb 10 18:28:02 BRST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 4aa3404a-0170-30c0-93ec-00001213a8e8 
 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
 Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Oracle Corporation
@@ -236,9 +236,9 @@ os.version=10.0
 derby.system.home=null
 Database Class Loader started - derby.database.classpath=''
 ----------------------------------------------------------------
-Mon Feb 10 16:52:22 BRST 2020:
-Shutting down instance fb160050-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 16:52:23 BRST 2020 Thread[Thread-85,5,main] Cleanup action starting
+Mon Feb 10 18:28:23 BRST 2020:
+Shutting down instance 4aa3404a-0170-30c0-93ec-00001213a8e8 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
+Mon Feb 10 18:28:23 BRST 2020 Thread[Thread-85,5,main] Cleanup action starting
 ERROR XBM0I: Directory test cannot be removed.
 	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
 	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
@@ -258,63 +258,7 @@ ERROR XBM0I: Directory test cannot be removed.
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
 	at java.lang.Thread.run(Unknown Source)
 Cleanup action completed
-Mon Feb 10 16:52:23 BRST 2020 Thread[Thread-85,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-----------------------------------------------------------------
-Mon Feb 10 16:52:25 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 645c405f-0170-306f-0ed5-00000726a578 
-on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
-java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_201-b09
-user.dir=C:\Users\glauc\git\repository\MyRestApi
-os.name=Windows 10
-os.arch=amd64
-os.version=10.0
-derby.system.home=null
-Database Class Loader started - derby.database.classpath=''
-----------------------------------------------------------------
-Mon Feb 10 16:53:06 BRST 2020:
-Shutting down instance 645c405f-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 16:53:07 BRST 2020 Thread[Thread-101,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-Mon Feb 10 16:53:07 BRST 2020 Thread[Thread-101,5,main] Cleanup action starting
+Mon Feb 10 18:28:23 BRST 2020 Thread[Thread-85,5,main] Cleanup action starting
 ERROR XBM0I: Directory test cannot be removed.
 	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
 	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
@@ -335,960 +279,8 @@ ERROR XBM0I: Directory test cannot be removed.
 	at java.lang.Thread.run(Unknown Source)
 Cleanup action completed
 ----------------------------------------------------------------
-Mon Feb 10 16:53:09 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 862e0071-0170-306f-0ed5-00000726a578 
-on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
-java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_201-b09
-user.dir=C:\Users\glauc\git\repository\MyRestApi
-os.name=Windows 10
-os.arch=amd64
-os.version=10.0
-derby.system.home=null
-Database Class Loader started - derby.database.classpath=''
-----------------------------------------------------------------
-Mon Feb 10 16:57:21 BRST 2020:
-Shutting down instance 862e0071-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 16:57:21 BRST 2020 Thread[Thread-117,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-Mon Feb 10 16:57:21 BRST 2020 Thread[Thread-117,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-----------------------------------------------------------------
-Mon Feb 10 16:57:24 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 7ff00080-0170-306f-0ed5-00000726a578 
-on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
-java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_201-b09
-user.dir=C:\Users\glauc\git\repository\MyRestApi
-os.name=Windows 10
-os.arch=amd64
-os.version=10.0
-derby.system.home=null
-Database Class Loader started - derby.database.classpath=''
-----------------------------------------------------------------
-Mon Feb 10 16:59:10 BRST 2020:
-Shutting down instance 7ff00080-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 16:59:10 BRST 2020 Thread[Thread-133,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-Mon Feb 10 16:59:10 BRST 2020 Thread[Thread-133,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-----------------------------------------------------------------
-Mon Feb 10 16:59:13 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 8a320091-0170-306f-0ed5-00000726a578 
-on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
-java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_201-b09
-user.dir=C:\Users\glauc\git\repository\MyRestApi
-os.name=Windows 10
-os.arch=amd64
-os.version=10.0
-derby.system.home=null
-Database Class Loader started - derby.database.classpath=''
-----------------------------------------------------------------
-Mon Feb 10 16:59:37 BRST 2020:
-Shutting down instance 8a320091-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 16:59:38 BRST 2020 Thread[Thread-149,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-Mon Feb 10 16:59:38 BRST 2020 Thread[Thread-149,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-----------------------------------------------------------------
-Mon Feb 10 16:59:40 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 94bc40a2-0170-306f-0ed5-00000726a578 
-on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
-java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_201-b09
-user.dir=C:\Users\glauc\git\repository\MyRestApi
-os.name=Windows 10
-os.arch=amd64
-os.version=10.0
-derby.system.home=null
-Database Class Loader started - derby.database.classpath=''
-----------------------------------------------------------------
-Mon Feb 10 17:00:45 BRST 2020:
-Shutting down instance 94bc40a2-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 17:00:45 BRST 2020 Thread[Thread-165,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-Mon Feb 10 17:00:45 BRST 2020 Thread[Thread-165,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-----------------------------------------------------------------
-Mon Feb 10 17:00:47 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance af8ec0b3-0170-306f-0ed5-00000726a578 
-on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
-java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_201-b09
-user.dir=C:\Users\glauc\git\repository\MyRestApi
-os.name=Windows 10
-os.arch=amd64
-os.version=10.0
-derby.system.home=null
-Database Class Loader started - derby.database.classpath=''
-----------------------------------------------------------------
-Mon Feb 10 17:00:56 BRST 2020:
-Shutting down instance af8ec0b3-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 17:00:57 BRST 2020 Thread[Thread-181,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-Mon Feb 10 17:00:57 BRST 2020 Thread[Thread-181,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-----------------------------------------------------------------
-Mon Feb 10 17:00:59 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 9a4840c2-0170-306f-0ed5-00000726a578 
-on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
-java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_201-b09
-user.dir=C:\Users\glauc\git\repository\MyRestApi
-os.name=Windows 10
-os.arch=amd64
-os.version=10.0
-derby.system.home=null
-Database Class Loader started - derby.database.classpath=''
-----------------------------------------------------------------
-Mon Feb 10 17:01:00 BRST 2020:
-Shutting down instance 9a4840c2-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 17:01:00 BRST 2020 Thread[Thread-194,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-Mon Feb 10 17:01:00 BRST 2020 Thread[Thread-194,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-----------------------------------------------------------------
-Mon Feb 10 17:01:24 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 953a00d1-0170-306f-0ed5-00000726a578 
-on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
-java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_201-b09
-user.dir=C:\Users\glauc\git\repository\MyRestApi
-os.name=Windows 10
-os.arch=amd64
-os.version=10.0
-derby.system.home=null
-Database Class Loader started - derby.database.classpath=''
-----------------------------------------------------------------
-Mon Feb 10 17:01:24 BRST 2020:
-Shutting down instance 953a00d1-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 17:01:25 BRST 2020 Thread[Thread-208,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-Mon Feb 10 17:01:25 BRST 2020 Thread[Thread-208,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-----------------------------------------------------------------
-Mon Feb 10 17:02:12 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 906400e0-0170-306f-0ed5-00000726a578 
-on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
-java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_201-b09
-user.dir=C:\Users\glauc\git\repository\MyRestApi
-os.name=Windows 10
-os.arch=amd64
-os.version=10.0
-derby.system.home=null
-Database Class Loader started - derby.database.classpath=''
-----------------------------------------------------------------
-Mon Feb 10 17:02:27 BRST 2020:
-Shutting down instance 906400e0-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 17:02:27 BRST 2020 Thread[Thread-225,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-Mon Feb 10 17:02:27 BRST 2020 Thread[Thread-225,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-----------------------------------------------------------------
-Mon Feb 10 17:02:30 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 7bc640ef-0170-306f-0ed5-00000726a578 
-on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
-java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_201-b09
-user.dir=C:\Users\glauc\git\repository\MyRestApi
-os.name=Windows 10
-os.arch=amd64
-os.version=10.0
-derby.system.home=null
-Database Class Loader started - derby.database.classpath=''
-----------------------------------------------------------------
-Mon Feb 10 17:06:21 BRST 2020:
-Shutting down instance 7bc640ef-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 17:06:22 BRST 2020 Thread[Thread-241,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-Mon Feb 10 17:06:22 BRST 2020 Thread[Thread-241,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-----------------------------------------------------------------
-Mon Feb 10 17:06:24 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f8e18104-0170-306f-0ed5-00000726a578 
-on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
-java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_201-b09
-user.dir=C:\Users\glauc\git\repository\MyRestApi
-os.name=Windows 10
-os.arch=amd64
-os.version=10.0
-derby.system.home=null
-Database Class Loader started - derby.database.classpath=''
-----------------------------------------------------------------
-Mon Feb 10 17:06:30 BRST 2020:
-Shutting down instance f8e18104-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 17:06:31 BRST 2020 Thread[Thread-257,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-Mon Feb 10 17:06:31 BRST 2020 Thread[Thread-257,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-----------------------------------------------------------------
-Mon Feb 10 17:06:33 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c4cac113-0170-306f-0ed5-00000726a578 
-on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
-java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_201-b09
-user.dir=C:\Users\glauc\git\repository\MyRestApi
-os.name=Windows 10
-os.arch=amd64
-os.version=10.0
-derby.system.home=null
-Database Class Loader started - derby.database.classpath=''
-----------------------------------------------------------------
-Mon Feb 10 17:07:31 BRST 2020:
-Shutting down instance c4cac113-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 17:07:31 BRST 2020 Thread[Thread-273,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-Mon Feb 10 17:07:31 BRST 2020 Thread[Thread-273,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-----------------------------------------------------------------
-Mon Feb 10 17:07:33 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 69c68125-0170-306f-0ed5-00000726a578 
-on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
-java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_201-b09
-user.dir=C:\Users\glauc\git\repository\MyRestApi
-os.name=Windows 10
-os.arch=amd64
-os.version=10.0
-derby.system.home=null
-Database Class Loader started - derby.database.classpath=''
-----------------------------------------------------------------
-Mon Feb 10 17:09:33 BRST 2020:
-Shutting down instance 69c68125-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 17:09:33 BRST 2020 Thread[Thread-289,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-Mon Feb 10 17:09:33 BRST 2020 Thread[Thread-289,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-----------------------------------------------------------------
-Mon Feb 10 17:09:35 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 96c5c136-0170-306f-0ed5-00000726a578 
-on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
-java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_201-b09
-user.dir=C:\Users\glauc\git\repository\MyRestApi
-os.name=Windows 10
-os.arch=amd64
-os.version=10.0
-derby.system.home=null
-Database Class Loader started - derby.database.classpath=''
-----------------------------------------------------------------
-Mon Feb 10 17:10:30 BRST 2020:
-Shutting down instance 96c5c136-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 17:10:30 BRST 2020 Thread[Thread-305,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-Mon Feb 10 17:10:30 BRST 2020 Thread[Thread-305,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-----------------------------------------------------------------
-Mon Feb 10 17:10:32 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6c5f0148-0170-306f-0ed5-00000726a578 
-on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
-java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_201-b09
-user.dir=C:\Users\glauc\git\repository\MyRestApi
-os.name=Windows 10
-os.arch=amd64
-os.version=10.0
-derby.system.home=null
-Database Class Loader started - derby.database.classpath=''
-----------------------------------------------------------------
-Mon Feb 10 17:10:59 BRST 2020:
-Shutting down instance 6c5f0148-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 17:10:59 BRST 2020 Thread[Thread-321,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-Mon Feb 10 17:10:59 BRST 2020 Thread[Thread-321,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-----------------------------------------------------------------
-Mon Feb 10 17:11:01 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 39f30159-0170-306f-0ed5-00000726a578 
-on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
-java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_201-b09
-user.dir=C:\Users\glauc\git\repository\MyRestApi
-os.name=Windows 10
-os.arch=amd64
-os.version=10.0
-derby.system.home=null
-Database Class Loader started - derby.database.classpath=''
-----------------------------------------------------------------
-Mon Feb 10 17:13:09 BRST 2020:
-Shutting down instance 39f30159-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 17:13:10 BRST 2020 Thread[Thread-337,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-Mon Feb 10 17:13:10 BRST 2020 Thread[Thread-337,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-----------------------------------------------------------------
-Mon Feb 10 17:13:12 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 771b0168-0170-306f-0ed5-00000726a578 
-on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
-java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_201-b09
-user.dir=C:\Users\glauc\git\repository\MyRestApi
-os.name=Windows 10
-os.arch=amd64
-os.version=10.0
-derby.system.home=null
-Database Class Loader started - derby.database.classpath=''
-----------------------------------------------------------------
-Mon Feb 10 17:21:40 BRST 2020:
-Shutting down instance 771b0168-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 17:21:40 BRST 2020 Thread[Thread-353,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-Mon Feb 10 17:21:40 BRST 2020 Thread[Thread-353,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-----------------------------------------------------------------
-Mon Feb 10 17:21:43 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 8fe48195-0170-306f-0ed5-00000726a578 
-on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
-java.vendor=Oracle Corporation
-java.runtime.version=1.8.0_201-b09
-user.dir=C:\Users\glauc\git\repository\MyRestApi
-os.name=Windows 10
-os.arch=amd64
-os.version=10.0
-derby.system.home=null
-Database Class Loader started - derby.database.classpath=''
-----------------------------------------------------------------
-Mon Feb 10 17:22:59 BRST 2020:
-Shutting down instance 8fe48195-0170-306f-0ed5-00000726a578 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
-Mon Feb 10 17:22:59 BRST 2020 Thread[Thread-369,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-Mon Feb 10 17:22:59 BRST 2020 Thread[Thread-369,5,main] Cleanup action starting
-ERROR XBM0I: Directory test cannot be removed.
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.error.StandardException.newException(Unknown Source)
-	at org.apache.derby.iapi.services.monitor.Monitor.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection$6.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.impl.jdbc.EmbedConnection.removePersistentService(Unknown Source)
-	at org.apache.derby.impl.jdbc.EmbedConnection.<init>(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$1.run(Unknown Source)
-	at java.security.AccessController.doPrivileged(Native Method)
-	at org.apache.derby.jdbc.InternalDriver.getNewEmbedConnection(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at org.apache.derby.jdbc.InternalDriver$LoginCallable.call(Unknown Source)
-	at java.util.concurrent.FutureTask.run(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
-	at java.lang.Thread.run(Unknown Source)
-Cleanup action completed
-----------------------------------------------------------------
-Mon Feb 10 17:23:01 BRST 2020:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2ded81a4-0170-306f-0ed5-00000726a578 
+Mon Feb 10 18:28:26 BRST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 03d30059-0170-30c0-93ec-00001213a8e8 
 on database directory C:\Users\glauc\git\repository\MyRestApi\test with class loader sun.misc.Launcher$AppClassLoader@73d16e93 
 Loaded from file:/C:/Users/glauc/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
 java.vendor=Oracle Corporation

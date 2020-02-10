@@ -27,7 +27,7 @@ public class AlunoController {
 	@Autowired
 	AlunoRepository alunoRepository;
 	
-	@GetMapping("/alunos")
+	@GetMapping("/alunos-teste")
 	public List<Aluno> getAlunos()
 	{
 		return alunoRepository.findAll();
